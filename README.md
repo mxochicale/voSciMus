@@ -31,58 +31,33 @@ https://ce0111li.webitrent.com/ce0111li_webrecruitment/
 
 * Why would you like to volunteer with the Robots exhibition?  
 
-As a international scientist in the UK doing a PhD in ~~in the area of~~
-Human-Robot Interaction ~~I want to be a better scientist, and~~
+As a international scientist in the UK doing a PhD in Human-Robot Interaction,
 I believe that volunteering in the Robots exhibition is a win-win situation
 because of the following two reasons:
-(first)
-my passion for robots begin since I was a child, I remember that I was
-thrilled to destroy and build things when I was 6, I always want to know ~~who~~
-how things work.
-~~ Therefore, at this stage of my life I am doing research to help humanity using~~
-~~and the area of~~
-~~humanoids robots.~~
-~~has given me much deeper questions as I am advancing.~~
-(second)
-My background is in Mechatronics Engineering and since 2014 I am trying
-to push ~~ing~~ the frontiers of ~~robotic~~ human-robot interaction
-~~using NAO (a humanoid robot)~~
-...
-~~and with this knowledge, that I am gaining everyday,is very valuable to
-anyone who is interested in robotics particularly in humanoid robots.~~
-~~the new generation of scientist as well as the humanity to which I am happy to share~~
-~~where, based on my experience of working with NAO (a humanoid robot)~~
-~~I will therefore happily share my knowledge and experience related to humanoid robots.~~
- ~~with working with NAO.  On the other hand,~~
+(I) my passion for robots began since I was a child (around six years old),
+I remember that I was thrilled to destroy and build things. I always wanted
+to know how things worked;
+(II) my background is in Mechatronics Engineering and since 2014 I am trying
+to push the frontiers of human-robot interaction which, I believe, is ideal
+to answer any questions about humanoid robots.
 
-
-I feel lucky to have this opportunity to volunteer at the Science Museum
-because I to enjoy to share knowledge to people of different backgrounds and ages
-as well as my ~~am~~ astonishment~~ing~~ about the capabilities~~y~~ of humanoid robots
-~~ as  well as ~~ to help humanity.
-~~By the way, I do love robots.~~
-~~I love robots and I love science that make my lucky to live in this era and
-certainly for the time being in the UK~~
-~~One of the main reasons is that I do love robots and I believe in the idea of
-sharing knowledge to humanity is one way to advance the frontiers of science.~~
+I feel very lucky to have this opportunity to volunteer at the Science Museum
+as I enjoy sharing general and specific knowledge regarding humanoid robots
+to people of different backgrounds, ages and nationalities.
 
 
 * What skills and experience do you think you could contribute to this role?  
 I have been involved in different Open Days at University of Birmingham since 2014
-in which ~~where~~ I was promoting the different areas of engineering that are
-related to robotics.
-Therefore, my skills of communication varying from
-proving ~~to~~ the basic knowledge of how a robot works ~~the parts of the robots~~
-to the state-of-the-art algorithms that are implemented to understand the outside
-world of the humanoid robot.
-Additionally, my experience in designing workshop or robotics for children is
-ideal to create engagement activities that can persuade children ~~for~~ in their
-future careers in science, technology, engineering and mathematics.
-~~I have the skills and the knowledge to promote robotics and also to show people
-how humanoid robots are improving the life of humanity in different areas of
-our society.~~
-~~promote the use of NAO, an humanoid robot, to improve the life of people in
-diverse areas of our society.~~
+in which I was promoting the different areas of engineering that are related to
+robotics. Therefore, my skills of communication varies from explaining the
+basic knowledge of how a robot works to the state-of-the-art algorithms that are
+implemented in humanoid robots to understand the world.
+My experience in designing workshop or robotics for children is
+ideal to create engagement activities that can persuade children in their future
+careers in science, technology, engineering and mathematics.
+Additionally, I am Mexican which means that my mother tongue is Spanish,
+that is one of the three languages (Mandarin and English included) with the
+most native speakers in the world.
 
 
 * Employment History  
@@ -95,16 +70,16 @@ Job title: Doctoral Researcher in Human-Robot Interaction
 
 Please tell us about your key responsibilities and achievements (3,500 character maximum):  
 
-As a Doctoral Research in Human-Robot Interaction at University of Birmingham,
-~~I am acquiring different skills that are particularly related to become a better
-scientist. ~~
+As a Doctoral Researcher in Human-Robot Interaction at University of Birmingham,
 During my two years and a half as a researcher, I have participated in an
 international entrepreneurship program where I presented a low-cost robot prototype
 that can provide education for free to children. I have also participated in different
-Open Days where I engaged with young students and ~~through~~ by being enthusiastic
-I encouraged them to study any area of engineering related to robotics. I have also
-published works in three conferences and been in two international conferences that
-give confidence to communicate with people from different backgrounds as well as nationalities.
-Additionally to my PhD, I am developing a workshop for children to learn Robotics
-using very cheap robots that are based in fold-able robots, I am plannig that this
-activity is going to be part of Outreach activities at University of Birmingham.
+Open Days where I engaged with young students (fifteen to twenty years old)
+and by being enthusiastic where I encouraged them to study any area of engineering
+related to robotics. I have also published works in three conferences and been
+in two international conferences that give confidence to communicate with people
+from different backgrounds, ages as well as nationalities.
+Additionally, as part of my PhD, I am developing a workshop for children to learn
+Robotics using very cheap robots that are based in fold-able robots, and I am
+planning that this activity can be part of Outreach activities at University of
+Birmingham.
