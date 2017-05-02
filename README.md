@@ -1,6 +1,10 @@
  Robots Engagement Volunteer
  ---
 
+
+# First Stage (Application)
+
+
 ## Job description
 
 Are you interested in the history of Robotics and do you enjoy interacting with
@@ -82,3 +86,13 @@ Additionally, as part of my PhD, I am developing a workshop for children to lear
 Robotics using very cheap robots that are based in fold-able robots, and I am
 planning that this activity can be part of Outreach activities at University of
 Birmingham.
+
+# Second Stage (Taster Days)
+
+ Robots Engagement Volunteer Taster Day on Saturday 6th May from 11.00-14.00
+
+ Our Taster Days are an informal selection day, so please don’t dress up! The only
+ thing that we ask of you is to bring an object that you think is amazing to discuss
+ for our Show and Tell activity. We’ll ask each of you to chat for one minute,
+ so keep it short and sweet! Bring something portable and easy to carry,
+ if your object is your priceless grand piano, stick to a photograph instead!
