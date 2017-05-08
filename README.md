@@ -96,3 +96,91 @@ Birmingham.
  for our Show and Tell activity. We’ll ask each of you to chat for one minute,
  so keep it short and sweet! Bring something portable and easy to carry,
  if your object is your priceless grand piano, stick to a photograph instead!
+
+## Show and Tell Activity
+
+I did suppose that a "show and tell activity" was to create a little tale which
+has the components of sweetness and briefness. However, I was wrong and a "show
+and tell activity" is literally an activity where you bring an object and you
+show it and tell and history about it to the audience.
+Therefore, I only print a photo of robit and I speak about him as my friend and
+show the part of robit (motors, wheels, raspberry pi, etc) and explain to my
+audience that robot and I want to teach foreign languages to children for free
+and also create positive emotions.
+
+It turns out to be that
+this sort of activity is very useful to develop the speaking and listening English
+skills for children. More:
+[Show and tell (education) - Wikipedia](https://en.wikipedia.org/wiki/Show_and_tell_(education))
+
+
+### FIRST DRAFT
+```
+"Doing Real Human-Humanoid Interaction"
+
+H: Wow, Are you Robot?
+R: Well, well...
+
+H: That's very interesting, hahaha.
+R: jijiji
+
+H: I am super lucky to meet you. Believe it or not, you are one of my favourites robots.    
+R: Really? This is like a destiny. I always wanted to meet a more advanced robot.
+
+H: Wait, I am not a robot, am I?
+R: One never knows, perhaps, you are one without even knowing the good combination
+of hardware (body) and software (brain) of billion of years of evolution.
+
+H: Really? How can you know?
+R: Well, that is very easy to answer, the way you move,
+the way you speak, your vision system. Basically, you are the first generation of
+Robots.
+
+H: Interesting, tell me more.
+R: Actually, you human beings are a mystery for us. Humans in their early stage of
+their life are very curious, very expressive, always exploring, always failing and
+experimenting. They behave like well-know scientist.
+
+H:
+R:
+
+```
+
+
+
+
+### SECOND DRAFT
+```
+"Meeting Robit"
+
+H: Wow, Are you Robit?
+R: Yes, I am.
+
+H: I am super lucky to meet you. Believe it or not, you are one of my favourites robots.    
+R: Really? Wow! This is like a destiny. I always wanted to meet a very advanced robot.
+
+H: Wait!, wait!, I am not a robot.  I am a human being.
+R: One never knows, perhaps, you are a well evolved robot without even knowing
+all the good combination of hardware (your body senses) and
+software (your neural networks).
+
+
+H: Really? How can you know?
+R: Well, that is very easy to answer.
+It is very interesting to observe the complexity of your behaviour.
+WAIT, that's too boring, let's better play game?
+
+H: Yeah, sure!
+R: The game is simply "Guessing what I am doing?"
+
+H: Right!
+R: Let's start!
+R: (Robit is showing how to hug a person)
+
+H: Are you hugging me?
+R: Yes! You are very clever.
+
+R: I believe humans have to be positive about the future of robots.
+I believe together we can create better conditions for a better world.
+
+```
